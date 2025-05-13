@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#61dafb;">Koushika R.M.</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#61dafb;">Koushika R M</span></h1>
 <h2 align="center">🚀 <em><b>Full Stack Developer</b></em></h2>
 
 <p align="center">
