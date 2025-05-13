@@ -11,11 +11,9 @@
   👩‍🎓 B.Tech in Information Technology <br>
   🎓 Studying at Karur | Oracle Foundation Certified <br>
   🌱 Currently learning: Full Stack Development, AI & IoT <br>
-  💼 Major Project: Smart Canteen System <br>
-  🧠 Minor Project: Smart Canteen Menu Prediction <br>
   💡 Passionate about coding, databases, and smart systems <br>
   ✨ Strengths: Ambitious, Responsible | ⚠️ Weakness: Trusts Easily (Comeback Strategy 💪) <br>
-  📬 Contact: <a href="mailto:koushika.rm2003@gmail.com">koushika.rm2003@gmail.com</a>
+  📬 Contact: <a href="mailto:rmkoushika3115@gmail.com">rmkoushika3115@gmail.com</a>
 </p>
 
 ---
